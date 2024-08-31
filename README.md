@@ -1,4 +1,5 @@
-FlickFinder
+## FlickFinder
+------------------------
 
 This project is a simple application that provides a RESTful API for accessing a movie database. The database is a simple SQLite database that contains information about movies, people, and their relationships.
 
